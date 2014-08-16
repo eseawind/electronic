@@ -9,4 +9,4 @@ electronic
 - [Arduino](http://www.arduino.cc/)
 - 树莓派 [Raspberry Pi](http://www.raspberrypi.org/)
 
-Just enjoy it, gay~
+Just enjoy it, guy~
